@@ -1,2 +1,2 @@
-# Project-Euler-JupyterLab
+# PElib
 Python Tools for Project Euler
